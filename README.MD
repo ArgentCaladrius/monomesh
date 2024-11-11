@@ -3,7 +3,7 @@ MonoMesh is a series of Shader Graph graphs and subgraphs to allow for easy crea
 
 *This is a package that will be under ongoing development for the foreseeable future, and some features may currently be missing, especially those regarding tinting as this was intended to be solely for black and white games first and foremost.*
 
-[Example scene](https://img.itch.zone/aW1hZ2UvMTU4NTUzMC8xNDQ2Nzc3MC5wbmc=/original/4TwtcV.png)
+![Example scene](https://img.itch.zone/aW1hZ2UvMTU4NTUzMC8xNDQ2Nzc3MC5wbmc=/original/4TwtcV.png)
 
 ## Features
 - Conversion of standard lit surfaces to one 1-bit
