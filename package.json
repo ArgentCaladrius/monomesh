@@ -1,0 +1,12 @@
+{
+    "name": "com.caladrius.monomesh",
+    "author": 
+    {
+        "name": "Caladrius",
+        "email": "AlabasterCaladrius@gmail.com" 
+    },
+    "version": "1.0.0",
+    "displayName": "MonoMesh",
+    "description": "Unity shaders to enable rapid development of 1-bit games with dynamic lighting",
+    "unity": "2022.3"
+}
