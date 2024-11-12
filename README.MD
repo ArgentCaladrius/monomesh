@@ -1,5 +1,5 @@
 # MONOMESH
-MonoMesh is a series of Unity Shader Graph graphs and subgraphs to allow for easy creation of 1-bit games with material-by-material control, avoiding the usual pitfalls of post-processing colour correction and the pixelation that comes with thresholding. This was created for my game [Sequestered](https://caladrius.itch.io/the-white-owl) as a tech demo for my next project, [The White Owl](https://caladrius.itch.io/sequestered).
+MonoMesh is a series of Unity Shader Graph graphs and subgraphs to allow for easy creation of 1-bit games with material-by-material control, avoiding the usual pitfalls of post-processing colour correction and the pixelation that comes with thresholding. This was created for my game [The White Owl](https://caladrius.itch.io/the-white-owl) as a tech demo for my next project, [Sequestered](https://caladrius.itch.io/sequestered).
 
 *This is a package that will be under ongoing development for the foreseeable future, and some features may currently be missing, especially those regarding tinting as this was intended to be solely for black and white games first and foremost.*
 
