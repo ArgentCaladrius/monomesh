@@ -397,10 +397,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 2914.0,
-            "y": -626.9999389648438,
+            "x": 2898.000244140625,
+            "y": -631.0,
             "width": 161.0,
-            "height": 33.99993896484375
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -433,8 +433,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 2977.0,
-            "y": -422.9999694824219,
+            "x": 2961.000244140625,
+            "y": -426.9999694824219,
             "width": 98.0,
             "height": 34.0
         }
@@ -652,10 +652,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 2926.0,
-            "y": -524.9999389648438,
-            "width": 149.0,
-            "height": 34.0
+            "x": 2910.0,
+            "y": -529.0,
+            "width": 149.000244140625,
+            "height": 34.000030517578128
         }
     },
     "m_Slots": [
@@ -688,7 +688,7 @@
     "m_RefNameGeneratedByDisplayName": "Additional Light Calculate Shadows",
     "m_DefaultReferenceName": "_ADDITIONAL_LIGHT_CALCULATE_SHADOWS",
     "m_OverrideReferenceName": "_ADDITIONAL_LIGHT_CALCULATE_SHADOWS",
-    "m_GeneratePropertyBlock": true,
+    "m_GeneratePropertyBlock": false,
     "m_UseCustomSlotLabel": false,
     "m_CustomSlotLabel": "",
     "m_DismissedVersion": 0,
@@ -873,10 +873,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 3162.0,
-            "y": -711.9999389648438,
-            "width": 269.999755859375,
-            "height": 494.0
+            "x": 3146.0,
+            "y": -716.0,
+            "width": 270.000244140625,
+            "height": 494.0000305175781
         }
     },
     "m_Slots": [
@@ -1088,10 +1088,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 2904.0,
-            "y": -695.0,
-            "width": 171.0,
-            "height": 34.00006103515625
+            "x": 2888.0,
+            "y": -699.0,
+            "width": 171.000244140625,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -1124,8 +1124,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 2965.0,
-            "y": -456.9999694824219,
+            "x": 2949.000244140625,
+            "y": -460.9999694824219,
             "width": 110.0,
             "height": 34.0
         }
@@ -1235,8 +1235,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 2897.0,
-            "y": -558.9999389648438,
+            "x": 2881.000244140625,
+            "y": -563.0,
             "width": 178.0,
             "height": 34.0
         }
@@ -1286,7 +1286,7 @@
     "m_RefNameGeneratedByDisplayName": "Additional Lights",
     "m_DefaultReferenceName": "_ADDITIONAL_LIGHTS",
     "m_OverrideReferenceName": "",
-    "m_GeneratePropertyBlock": true,
+    "m_GeneratePropertyBlock": false,
     "m_UseCustomSlotLabel": false,
     "m_CustomSlotLabel": "",
     "m_DismissedVersion": 0,
@@ -1354,10 +1354,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 2917.0,
-            "y": -593.0,
-            "width": 158.0,
-            "height": 34.00006103515625
+            "x": 2757.0,
+            "y": -597.0,
+            "width": 307.000244140625,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -1472,8 +1472,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 2954.0,
-            "y": -660.9999389648438,
+            "x": 2938.000244140625,
+            "y": -665.0,
             "width": 121.0,
             "height": 34.0
         }
@@ -1554,10 +1554,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 2922.0,
-            "y": -728.9999389648438,
-            "width": 153.0,
-            "height": 33.99993896484375
+            "x": 2906.0,
+            "y": -733.0,
+            "width": 153.000244140625,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -1809,9 +1809,9 @@
     "m_ShaderOutputName": "BaseColor",
     "m_StageCapability": 2,
     "m_Value": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
     },
     "m_DefaultValue": {
         "x": 0.0,
@@ -1867,10 +1867,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 2970.0,
-            "y": -490.99993896484377,
-            "width": 105.0,
-            "height": 33.999969482421878
+            "x": 2954.0,
+            "y": -494.9999694824219,
+            "width": 105.000244140625,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -1937,7 +1937,7 @@
     "m_RefNameGeneratedByDisplayName": "Main Light Shadows Cascade",
     "m_DefaultReferenceName": "_MAIN_LIGHT_SHADOWS_CASCADE",
     "m_OverrideReferenceName": "",
-    "m_GeneratePropertyBlock": true,
+    "m_GeneratePropertyBlock": false,
     "m_UseCustomSlotLabel": false,
     "m_CustomSlotLabel": "",
     "m_DismissedVersion": 0,
@@ -2016,7 +2016,7 @@
     "m_RefNameGeneratedByDisplayName": "Main Light Shadows",
     "m_DefaultReferenceName": "_MAIN_LIGHT_SHADOWS",
     "m_OverrideReferenceName": "",
-    "m_GeneratePropertyBlock": true,
+    "m_GeneratePropertyBlock": false,
     "m_UseCustomSlotLabel": false,
     "m_CustomSlotLabel": "",
     "m_DismissedVersion": 0,
